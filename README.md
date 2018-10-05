@@ -1,2 +1,2 @@
 # hello-world
-Esditing the files to test commit.
+Editing the files to test commit.
